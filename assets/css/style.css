@@ -3,3 +3,7 @@ div.jum{
 	border-radius: 20px;
 	height: 100vh;
 }
+
+section{
+	min-height: 420px;
+}
